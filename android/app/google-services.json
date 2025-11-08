@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919835922577",
+    "project_id": "yemek-1eee2",
+    "storage_bucket": "yemek-1eee2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919835922577:android:d737c439c1511faba06f30",
+        "android_client_info": {
+          "package_name": "com.example.yemek_tar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGT_Zzeo1QdL564F_C5cWOWXDaGjm31ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
